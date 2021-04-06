@@ -1,0 +1,12 @@
+﻿  Invalidating makefile for TopDownProjectEditor (CharacterMovement.cpp modified)
+  Building TopDownProjectEditor...
+  Using Visual Studio 2019 14.28.29910 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.28.29910) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 12 processes...
+    [1/4] CharacterMovement.cpp
+    [2/4] UE4Editor-TopDownProject-0005.lib
+       Creating library E:\TopDownProject\Intermediate\Build\Win64\UE4Editor\Development\TopDownProject\UE4Editor-TopDownProject-0005.lib and object E:\TopDownProject\Intermediate\Build\Win64\UE4Editor\Development\TopDownProject\UE4Editor-TopDownProject-0005.exp
+    [3/4] UE4Editor-TopDownProject-0005.dll
+       Creating library E:\TopDownProject\Intermediate\Build\Win64\UE4Editor\Development\TopDownProject\UE4Editor-TopDownProject-0005.suppressed.lib and object E:\TopDownProject\Intermediate\Build\Win64\UE4Editor\Development\TopDownProject\UE4Editor-TopDownProject-0005.suppressed.exp
+    [4/4] TopDownProjectEditor.target
+  Total time in Parallel executor: 5.38 seconds
+  Total execution time: 8.17 seconds
