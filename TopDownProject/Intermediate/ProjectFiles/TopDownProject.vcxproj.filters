@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\TopDownProject.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{86BAE8EC-BBC4-4712-8086-74CD9FCB829C}</UniqueIdentifier>
+      <UniqueIdentifier>{573D95D6-9B20-4D07-AC36-B13305451E67}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TopDownProject.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{56353B65-9500-4D81-AED4-6AB67266A417}</UniqueIdentifier>
+      <UniqueIdentifier>{91189922-7E9C-4323-BDF9-DFBAB89AD695}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,8 +30,26 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\TopDownProject">
-      <UniqueIdentifier>{0069CE19-5EDB-4705-AAEF-0D8444E191FF}</UniqueIdentifier>
+      <UniqueIdentifier>{F3576FC0-C6E2-4B4E-85FF-DBA71B11F140}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\TopDownProject\AI_Bot_Controller.cpp">
+      <Filter>Source\TopDownProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TopDownProject\AI_Bot_Controller.h">
+      <Filter>Source\TopDownProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TopDownProject\Ai_Character.cpp">
+      <Filter>Source\TopDownProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TopDownProject\Ai_Character.h">
+      <Filter>Source\TopDownProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TopDownProject\CharacterMovement.cpp">
+      <Filter>Source\TopDownProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TopDownProject\CharacterMovement.h">
+      <Filter>Source\TopDownProject</Filter>
+    </ClInclude>
     <None Include="..\..\Source\TopDownProject\TopDownProject.Build.cs">
       <Filter>Source\TopDownProject</Filter>
     </None>
@@ -53,11 +71,5 @@
     <ClInclude Include="..\..\Source\TopDownProject\TopDownProjectGameMode.h">
       <Filter>Source\TopDownProject</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Source\TopDownProject\CharacterMovement.h">
-      <Filter>Source\TopDownProject</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\TopDownProject\CharacterMovement.cpp">
-      <Filter>Source\TopDownProject</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

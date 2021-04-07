@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "TopDownProject",
-			"Path": "E:\\TopDownProject\\Source\\TopDownProject.Target.cs",
+			"Path": "C:\\Users\\duhae\\OneDrive\\Documents\\GitHub\\TopdownProject\\TopDownProject\\Source\\TopDownProject.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "TopDownProjectEditor",
-			"Path": "E:\\TopDownProject\\Source\\TopDownProjectEditor.Target.cs",
+			"Path": "C:\\Users\\duhae\\OneDrive\\Documents\\GitHub\\TopdownProject\\TopDownProject\\Source\\TopDownProjectEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

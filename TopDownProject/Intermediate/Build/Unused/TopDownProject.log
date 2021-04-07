@@ -1,12 +1,13 @@
-﻿  Invalidating makefile for TopDownProjectEditor (CharacterMovement.cpp modified)
-  Building TopDownProjectEditor...
-  Using Visual Studio 2019 14.28.29910 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.28.29910) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 4 actions with 12 processes...
-    [1/4] CharacterMovement.cpp
-    [2/4] UE4Editor-TopDownProject-0005.lib
-       Creating library E:\TopDownProject\Intermediate\Build\Win64\UE4Editor\Development\TopDownProject\UE4Editor-TopDownProject-0005.lib and object E:\TopDownProject\Intermediate\Build\Win64\UE4Editor\Development\TopDownProject\UE4Editor-TopDownProject-0005.exp
-    [3/4] UE4Editor-TopDownProject-0005.dll
-       Creating library E:\TopDownProject\Intermediate\Build\Win64\UE4Editor\Development\TopDownProject\UE4Editor-TopDownProject-0005.suppressed.lib and object E:\TopDownProject\Intermediate\Build\Win64\UE4Editor\Development\TopDownProject\UE4Editor-TopDownProject-0005.suppressed.exp
-    [4/4] TopDownProjectEditor.target
-  Total time in Parallel executor: 5.38 seconds
-  Total execution time: 8.17 seconds
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\duhae\OneDrive\Documents\GitHub\TopdownProject).
+  Invalidating makefile for TopDownProjectEditor (AI_Bot_Controller.cpp modified)
+  Parsing headers for TopDownProjectEditor
+    Running UnrealHeaderTool "C:\Users\duhae\OneDrive\Documents\GitHub\TopdownProject\TopDownProject\TopDownProject.uproject" "C:\Users\duhae\OneDrive\Documents\GitHub\TopdownProject\TopDownProject\Intermediate\Build\Win64\TopDownProjectEditor\Development\TopDownProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\duhae\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  C:/Users/duhae/OneDrive/Documents/GitHub/TopdownProject/TopDownProject/Source/TopDownProject/AI_Bot_Controller.h(37) : LogCompile: Error: Unknown variable specifier 'BlueprintReaddwrite'
+  C:/Users/duhae/OneDrive/Documents/GitHub/TopdownProject/TopDownProject/Source/TopDownProject/AI_Bot_Controller.h(37) : LogCompile: Error: Unknown variable specifier 'Catogory'
+  C:/Users/duhae/OneDrive/Documents/GitHub/TopdownProject/TopDownProject/Source/TopDownProject/AI_Bot_Controller.h(42) : LogCompile: Error: Unknown variable specifier 'BlueprintReaddwrite'
+  C:/Users/duhae/OneDrive/Documents/GitHub/TopdownProject/TopDownProject/Source/TopDownProject/AI_Bot_Controller.h(42) : LogCompile: Error: Unknown variable specifier 'Catogory'
+  C:/Users/duhae/OneDrive/Documents/GitHub/TopdownProject/TopDownProject/Source/TopDownProject/AI_Bot_Controller.h(47) : LogCompile: Error: Unknown variable specifier 'BlueprintReaddwrite'
+  C:/Users/duhae/OneDrive/Documents/GitHub/TopdownProject/TopDownProject/Source/TopDownProject/AI_Bot_Controller.h(47) : LogCompile: Error: Unknown variable specifier 'Catogory'
+  C:/Users/duhae/OneDrive/Documents/GitHub/TopdownProject/TopDownProject/Source/TopDownProject/AI_Bot_Controller.h(52) : LogCompile: Error: Unknown variable specifier 'BlueprintReaddwrite'
+  C:/Users/duhae/OneDrive/Documents/GitHub/TopdownProject/TopDownProject/Source/TopDownProject/AI_Bot_Controller.h(52) : LogCompile: Error: Unknown variable specifier 'Catogory'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): error MSB3073: The command ""C:\Program Files\Epic Games\UE_4.26\Engine\Build\BatchFiles\Build.bat" TopDownProjectEditor Win64 Development -Project="C:\Users\duhae\OneDrive\Documents\GitHub\TopdownProject\TopDownProject\TopDownProject.uproject" -WaitMutex -FromMsBuild" exited with code 6.
